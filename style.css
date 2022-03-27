@@ -6,5 +6,6 @@ body {
 }
 
 p {
+  margin-top: 0px;
   font-family: 'IBM Plex Serif', serif;  
 }
