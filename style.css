@@ -2,10 +2,12 @@
 
 body {
   margin: auto;
+  text-align: center;
   font-family: 'IBM Plex Serif', serif;
 }
 
 h1 {
+  weight: 600px;
   margin-bottom: 0px;
 }
 
