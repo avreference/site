@@ -5,6 +5,10 @@ body {
   font-family: 'IBM Plex Serif', serif;
 }
 
+h1 {
+  margin-bottom: 0px;
+}
+
 p {
   margin-top: 0px;
   font-family: 'IBM Plex Serif', serif;  
