@@ -16,6 +16,9 @@ p {
   font-family: 'IBM Plex Serif', serif;  
 }
 
-.imgp {
-  margin: auto;
+div {
+  display: inline;
+  height: 400px;
+  width: 200px;
+  padding: 20px 20px 20px 20px;
 }
