@@ -17,6 +17,7 @@ p {
 }
 
 div {
+  display: inline-block;
   height: 400px;
   width: 200px;
   padding: 20px 20px 20px 20px;
