@@ -18,9 +18,9 @@ p {
 
 div {
   display: inline-block;
-  height: 500px;
-  width: 300px;
-  padding: 20px 20px 20px 20px;
-  border: 2px solid black;
-  border-radius: 11px;
+  height: 512px;
+  width: 256px;
+  border: 3px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 10px;
 }
